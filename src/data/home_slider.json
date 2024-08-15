@@ -1,0 +1,34 @@
+{
+  "minerals": [
+    {
+      "id": 1,
+      "image": "/minerals/backdrops/coal.jpg",
+      "name": "Coal",
+      "description": "Nigeria's coal is a global gem. With low sulfur and ash content, it's one of the world's cleanest burning coals. Backed by nearly 3 billion tonnes of indicated reserves and over 600 million tonnes of proven reserves, Nigeria offers immense potential for a sustainable energy future."
+    },
+    {
+      "id": 2,
+      "image": "/minerals/backdrops/diamond.jpg",
+      "name": "Gem Stones", 
+      "description": "Uncover a world of brilliance in Nigeria. Our Plateau, Kaduna, and Bauchi states harbor a rich tapestry of precious gemstones, including world-renowned sapphire, ruby, and emerald. Seize the opportunity to invest in this sparkling industry."
+    },
+    {
+      "id": 3,
+      "image": "/minerals/backdrops/ore.jpg",
+      "name": "Iron Ore",
+      "description": "With over 3 billion metric tonnes of iron ore reserves, Nigeria boasts a vast untapped resource. Our existing mining operations and steel complexes offer a solid foundation for a thriving steel industry. Join us in transforming Nigeria into a global steel-making hub."
+    },
+    {
+      "id": 4,
+      "image": "/minerals/backdrops/gold.jpg",
+      "name": "Gold",
+      "description": "Discover untapped riches in Nigeria's southwestern schist belt. Proven reserves of both alluvial and primary gold offer immense potential. Seize the opportunity to stake your claim and unlock the wealth of this golden frontier."
+    },
+    {
+      "id": 5,
+      "image": "/minerals/backdrops/salt.jpg",
+      "name": "Salt",
+      "description": "Unleash the potential of Nigeria's vast salt reserves. With an annual demand for essential chemicals exceeding one million tonnes, the opportunity to supply the nation's industries is immense."
+    }
+  ]
+}
